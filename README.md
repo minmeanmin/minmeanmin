@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=150&section=header" />
-### Hi 👋
 
 ![minmeanmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=minmeanmin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite)
 
